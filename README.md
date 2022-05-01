@@ -12,15 +12,17 @@
       
 - 🌱 I’m currently learning ...
 
-      -MongoDB and other NoSQL databases
+      -libGDX
 
 - 💞️ I’m looking to collaborate on ...
 
-      -My current project is a microservice based application for creating custom D&D content and connecting/playing with other players
+      - games built in Java using libGDX framework
 
 - 📫 How to reach me ...
 
       -cinderelliot@yahoo.com
+      -tumblr (main): femmeforeverafter
+      -tumblr (dev blog): sailordevblog
 
 <!---
 femmeforeverafter/femmeforeverafter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
